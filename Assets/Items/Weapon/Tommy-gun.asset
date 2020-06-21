@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd1a18c955af1bd44ae714febb04704a, type: 3}
+  m_Name: Tommy-gun
+  m_EditorClassIdentifier: 
+  itemName: Tommy-gun
+  itemSprite: {fileID: -3890147527725914968, guid: 0a4165c72c2692741af8de94d9aff6e9,
+    type: 3}
+  itemPrefab: {fileID: 9135012875552541004, guid: 61f1a08881bf6e748b62b3ffbad33f35,
+    type: 3}
+  itemRare: 3
+  isStacked: 0
+  maxCountInStack: 1
+  attackDamage: 3
+  attackRate: 1
+  bulletSpeed: 500
+  knockback: 2
+  attackType: 1

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c88ca50ca8aa4674483431b88cdc9dfe, type: 3}
+  m_Name: Berries
+  m_EditorClassIdentifier: 
+  itemName: Berries
+  itemSprite: {fileID: -3930946897451993484, guid: ce5133c97484d4c44a7f68ab8fd71862,
+    type: 3}
+  itemPrefab: {fileID: 5542929286428512489, guid: d56df30a5e1bce045bad3cc5912b808f,
+    type: 3}
+  itemRare: 0
+  isStacked: 1
+  maxCountInStack: 20
+  healthCount: 5

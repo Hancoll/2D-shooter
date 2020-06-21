@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8d3a535f169e5f04e908324c3a05c6f8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cellPrefab: {fileID: 6231419094518317937, guid: 8698f593ec0e60640ae397110b3b8041,
+      type: 3}
+  - ItemData: {instanceID: 0}
+  - camera: {instanceID: 0}
+  - selectedInventoryItemTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

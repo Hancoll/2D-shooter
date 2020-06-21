@@ -1,0 +1,350 @@
+{
+  "BurstVersion": "ff4665fd-2430-45d6-891c-e6fd93f7adb6",
+  "Assemblies": [
+    {
+      "FullName": "Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "FilePath": "C:\\Users\\Gleb\\Desktop\\Projects\\SurvivalGame\\Library\\ScriptAssemblies\\Unity.Burst.dll",
+      "LastWriteTime": "2020-05-07T09:19:14.9052112Z"
+    },
+    {
+      "FullName": "netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51",
+      "FilePath": "C:\\Program Files\\Unity\\Hub\\Editor\\2019.3.8f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit\\Facades\\netstandard.dll",
+      "LastWriteTime": "2020-04-04T02:05:12Z"
+    },
+    {
+      "FullName": "mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "FilePath": "C:\\Program Files\\Unity\\Hub\\Editor\\2019.3.8f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit\\mscorlib.dll",
+      "LastWriteTime": "2020-04-04T02:05:12Z"
+    },
+    {
+      "FullName": "Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "FilePath": "C:\\Users\\Gleb\\Desktop\\Projects\\SurvivalGame\\Library\\ScriptAssemblies\\Unity.Entities.dll",
+      "LastWriteTime": "2020-05-07T09:20:08.2694138Z"
+    },
+    {
+      "FullName": "Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "FilePath": "C:\\Users\\Gleb\\Desktop\\Projects\\SurvivalGame\\Library\\ScriptAssemblies\\Unity.Collections.dll",
+      "LastWriteTime": "2020-05-07T09:19:25.3583365Z"
+    },
+    {
+      "FullName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "FilePath": "C:\\Program Files\\Unity\\Hub\\Editor\\2019.3.8f1\\Editor\\Data\\Managed\\UnityEngine\\UnityEngine.CoreModule.dll",
+      "LastWriteTime": "2020-04-04T02:12:58Z"
+    },
+    {
+      "FullName": "Unity.Mathematics, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "FilePath": "C:\\Users\\Gleb\\Desktop\\Projects\\SurvivalGame\\Library\\ScriptAssemblies\\Unity.Mathematics.dll",
+      "LastWriteTime": "2020-05-07T09:19:20.5813464Z"
+    },
+    {
+      "FullName": "mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "FilePath": "C:\\Program Files\\Unity\\Hub\\Editor\\2019.3.8f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit\\mscorlib.dll",
+      "LastWriteTime": "2020-04-04T02:05:12Z"
+    },
+    {
+      "FullName": "System.Runtime.CompilerServices.Unsafe, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+      "FilePath": "C:\\Users\\Gleb\\Desktop\\Projects\\SurvivalGame\\Library\\PackageCache\\com.unity.collections@0.8.0-preview.5\\System.Runtime.CompilerServices.Unsafe.dll",
+      "LastWriteTime": "2020-04-30T08:43:19Z"
+    },
+    {
+      "FullName": "System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+      "FilePath": "C:\\Program Files\\Unity\\Hub\\Editor\\2019.3.8f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit\\Facades\\System.Runtime.dll",
+      "LastWriteTime": "2020-04-04T02:05:12Z"
+    },
+    {
+      "FullName": "Unity.Burst.Unsafe, Version=4.0.5.0, Culture=neutral, PublicKeyToken=null",
+      "FilePath": "C:\\Users\\Gleb\\Desktop\\Projects\\SurvivalGame\\Library\\PackageCache\\com.unity.burst@1.3.0-preview.9\\Unity.Burst.Unsafe.dll",
+      "LastWriteTime": "2020-04-01T11:41:31Z"
+    }
+  ],
+  "Functions": [
+    {
+      "FullName": "System.Int32 Unity.Burst.Intrinsics.X86::DoGetCSRTrampoline()",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "ae88bf0966eebde3760c54ed8cfe2a62",
+      "LinkName": "CDCA4A5193BE5947",
+      "AssemblyDependencyIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Burst.Intrinsics.X86::DoSetCSRTrampoline(System.Int32)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "18639f846083feb49315c17958fc3789",
+      "LinkName": "801E9A000BB37B05",
+      "AssemblyDependencyIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "FullName": "System.Boolean Unity.Entities.StructuralChange::AddComponentEntityExecute(Unity.Entities.EntityComponentStore*,Unity.Entities.Entity*,System.Int32)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "9cb60310ba2aa00a49ac52efea84b4e8",
+      "LinkName": "AAA6AEDB2D217911",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        0,
+        10
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.StructuralChange::AddComponentEntitiesBatchExecute(Unity.Entities.EntityComponentStore*,Unity.Collections.LowLevel.Unsafe.UnsafeList*,System.Int32)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "e5241937d78d7a05bd732e5bb90d76df",
+      "LinkName": "299577E4E1DF3A51",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        0,
+        9,
+        10
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.StructuralChange::AddComponentChunksExecute(Unity.Entities.EntityComponentStore*,Unity.Entities.ArchetypeChunk*,System.Int32,System.Int32)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "df6f9e6428409f507d835295856ddf0b",
+      "LinkName": "773DC54203A6998F",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        4,
+        5,
+        7,
+        6,
+        8,
+        0,
+        9,
+        10
+      ]
+    },
+    {
+      "FullName": "System.Boolean Unity.Entities.StructuralChange::RemoveComponentEntityExecute(Unity.Entities.EntityComponentStore*,Unity.Entities.Entity*,System.Int32)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "24e3cbddff9e010b14eb3aa8cbaeab88",
+      "LinkName": "1201E5F6D1E4EC5F",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        0,
+        10
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.StructuralChange::RemoveComponentChunksExecute(Unity.Entities.EntityComponentStore*,Unity.Entities.ArchetypeChunk*,System.Int32,System.Int32)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "cc550e335e40e629b023cb97a1b14632",
+      "LinkName": "DC0186A7DDED51F2",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        4,
+        5,
+        7,
+        6,
+        8,
+        0,
+        9,
+        10
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.StructuralChange::RemoveComponentEntitiesBatchExecute(Unity.Entities.EntityComponentStore*,Unity.Collections.LowLevel.Unsafe.UnsafeList*,System.Int32)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "beadbad2ff589297707ed2d4009596de",
+      "LinkName": "048DA67685B13057",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        0,
+        9,
+        10
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.StructuralChange::AddSharedComponentChunksExecute(Unity.Entities.EntityComponentStore*,Unity.Entities.ArchetypeChunk*,System.Int32,System.Int32,System.Int32)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "a9fbda5e7f2bc694d2bae4d2692e49da",
+      "LinkName": "542EB605C3747C68",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        4,
+        5,
+        7,
+        6,
+        8,
+        0,
+        9,
+        10
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.StructuralChange::MoveEntityArchetypeExecute(Unity.Entities.EntityComponentStore*,Unity.Entities.Entity*,System.Void*)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "d50877a40d2d52c97927f7bbf4b04fdc",
+      "LinkName": "137AC5B4BEBD1009",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        0,
+        10
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.StructuralChange::SetChunkComponentExecute(Unity.Entities.EntityComponentStore*,Unity.Entities.ArchetypeChunk*,System.Int32,System.Void*,System.Int32)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "1cebf1ddb177ced109af0ab773f5cbef",
+      "LinkName": "5AE063EC50B48E9E",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        4,
+        5,
+        7
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.StructuralChange::CreateEntityExecute(Unity.Entities.EntityComponentStore*,System.Void*,Unity.Entities.Entity*,System.Int32)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "d4d35277d1bf8a9b13b3848382d876aa",
+      "LinkName": "61885968DA53AEE3",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        0,
+        10
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.StructuralChange::InstantiateEntitiesExecute(Unity.Entities.EntityComponentStore*,Unity.Entities.Entity*,Unity.Entities.Entity*,System.Int32)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "93e8d6e89d1ef0cc3ba074147b9807ac",
+      "LinkName": "CF0FF7D3146132D5",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        4,
+        5,
+        7,
+        6,
+        0,
+        10,
+        9,
+        8
+      ]
+    },
+    {
+      "FullName": "System.Boolean Unity.Entities.EntityCommandBuffer::PlaybackUnmanagedCommandExecute(Unity.Entities.EntityComponentStore*,Unity.Entities.BasicCommand*,Unity.Entities.ECBSharedPlaybackState&,Unity.Entities.PlaybackPolicy)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "ca032d7b84a74669d87de9b9cee5e4ba",
+      "LinkName": "EB836A6B00385FD7",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        4,
+        5,
+        7,
+        6,
+        0,
+        10,
+        9,
+        8
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.EntityCommandBuffer::PlaybackChainChunkWrapper(Unity.Entities.EntityDataAccess*,Unity.Collections.LowLevel.Unsafe.UnsafeList*,Unity.Entities.EntityComponentStore/ArchetypeChanges&,Unity.Entities.ECBSharedPlaybackState&,Unity.Entities.ECBChainPlaybackState*,System.Int32,System.Int32,System.Boolean,Unity.Entities.PlaybackPolicy)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "072857a76c4bae30472566781dbb277e",
+      "LinkName": "6CCB0EABEDB92507",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        4,
+        5,
+        7,
+        6,
+        0,
+        10,
+        9,
+        8
+      ]
+    },
+    {
+      "FullName": "System.Int32 Unity.Entities.ChunkIterationUtility::CalculateEntityCountExecute(Unity.Entities.UnsafeMatchingArchetypePtrList&,Unity.Entities.EntityQueryFilter&)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "3b6e4f40ff55b2976fa3f48cca1720e3",
+      "LinkName": "A97758B627ED3037",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "FullName": "System.Int32 Unity.Entities.ChunkIterationUtility::CalculateChunkCountExecute(Unity.Entities.UnsafeMatchingArchetypePtrList&,Unity.Entities.EntityQueryFilter&)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "10f3a5c421b196d47875ed72501031c1",
+      "LinkName": "9FD4D34EBF439837",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        4
+      ]
+    }
+  ]
+}
